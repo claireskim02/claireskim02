@@ -8,7 +8,3 @@ I mostly code in Python, especially for data analysis, research, and automation.
 
 Some of the projects here are early prototypes, while others are coursework or research-related. I'm using GitHub as a place to document what I'm learning, build in public, and keep improving my technical toolkit over time.
 
-## Selected Work
-
-- [LowTide / Trader Alarm](https://github.com/claireskim02/trader_alarm): an early React Native prototype for overnight market monitoring and personalized trader alerts.
-- [Gen AI Final Project](https://github.com/zaranip/gen-ai-final-project): a collaborative UChicago FINM project exploring agentic macroeconomic research with self-critique, persistent memory, and FRED data.
