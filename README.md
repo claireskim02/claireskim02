@@ -1,4 +1,4 @@
-# Hi, I'm Claire
+# Hi!
 
 I'm currently a Master's student in Financial Mathematics at the University of Chicago.
 
