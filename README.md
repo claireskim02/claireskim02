@@ -1,21 +1,9 @@
-# Hi, I'm Claire Kim
+# Hi, I'm Claire
 
-I'm a Master's in Financial Mathematics student at the University of Chicago.
+I'm currently a Master's student in Financial Mathematics at the University of Chicago.
 
-## Current Interests
+I'm interested in quantitative finance, behavioral finance research, and how AI can be used to build more useful research and decision-making tools. Alongside my coursework in different finance concepts and research areas, I'm experimenting with practical toolkits, agentic systems, and small software projects that help turn messy workflows into something more structured.
 
-- Behavioral finance research and investor decision-making
-- Quantitative finance, derivatives, and market microstructure
-- AI-assisted research and analysis workflows
-- Agent-based systems for finance, productivity, and decision support
-- Building practical tools 
+I mostly code in Python, especially for data analysis, research, and automation. I'm also starting to build more with TypeScript, React Native, APIs, and AI-assisted development tools as I explore app prototypes and agent workflows.
 
-### LowTide
-
-LowTide is a cross-platform trader alarm prototype for overnight market monitoring. The idea is to help traders define personalized market conditions that can adjust their wake-up timing when overnight moves become meaningful.
-
-The prototype uses Expo, React Native, TypeScript, and a local market-data API with live public BTC data plus simulated futures placeholders.
-
-## What I'm Building Toward
-
-I'm using GitHub to document projects that combine finance, research, and AI-enabled software. Some projects are early prototypes.
+Some of the projects here are early prototypes, while others are coursework or research-related. I'm using GitHub as a place to document what I'm learning, build in public, and keep improving my technical toolkit over time.
